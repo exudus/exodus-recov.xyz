@@ -263,7 +263,7 @@ end
 coroutine.wrap(WJJHBK_fake_script)()
 
 
-if game.PlaceId == 155615604 then
+if game.PlaceId == 6034083023 then
 	print('e')
 else
 	ScreenGui:Destroy()
