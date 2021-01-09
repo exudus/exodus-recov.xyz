@@ -1,1 +1,229 @@
-return(function(e,...)local E="This file was obfuscated using PSU Obfuscator 4.0.A | https://www.psu.dev/ & discord.gg/psu";local S=e.rAJnDNNT0;local q=e[((#{}+231655199))];local a=e[(352764530)];local y=e[((#{453;(function(...)return 214,...;end)(820,6)}+231976348))];local v=e[((#{150;470;859;(function(...)return 271,295,826;end)()}+240163754))];local O=e[((#{385;793;952;}+8182640))];local _=e["rYC2wBd2"];local b=e[((#{253;836;206;33;(function(...)return 719,91,...;end)(919,296,382)}+122263710))];local w=e[((821117795-#("luraph is now down until further notice for an emergency major security update")))];local U=e[(655372516)];local M=e[((#{362;282;294;422;}+616539180))];local u=e[(171585488)];local c=e[(777086630)];local D=e["MaF8y"];local x=e[((115146828-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop...")))];local n=e[((417425642-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop...")))];local I=e[(217717236)];local i=e[(548624182)];local k=e['qiSEUBMb'];local L=e[(471639919)];local o=e["oFCNH75BNz"];local B=e[(337500559)];local s=e.u9BvF;local p=e[(447982493)];local f=e[((596940381-#("you dumped constants by printing the deserializer??? ladies and gentlemen stand clear we have a genius in the building.")))];local V=e.hP57VLvWiD;local F=e[(15252081)];local X=e['RgoUmN'];local P=((getfenv)or(function(...)return(_ENV);end));local t,d,l=({}),(""),(P(n));local r=((l["\98\105\116\51\50"])or(l[""..e[c].."\105"..e[o]])or({}));local t=(((r)and(r["\98\120\111"..e[i]]))or(function(e,o)local l,n=n,u;while((e>u)and(o>u))do local r,t=e%a,o%a;if r~=t then n=n+l;end;e,o,l=(e-r)/a,(o-t)/a,l*a;end;if e<o then e=o;end;while e>u do local o=e%a;if o>u then n=n+l;end;e,l=(e-o)/a,l*a;end;return(n);end));local h=(a^D);local m=(h-n);local C,g,A;local G=(d["\99"..e[b].."\97\114"]);local h=(d[""..e[F].."\115"..e[w].."\98"]);local h=(d[""..e[c].."\121"..e[o]..e["V3aNLxY"]]);local d=(d["\115\117"..e[c]]);local F=(l["\116\121\112\101"]);local Y=(l[""..e[o].."\111"..e[p]..e[w].."\109"..e[c].."\101"..e[i]]);local z=((l[""..e[B]..e[s].."\116"..e[b]][""..e[f].."\100\101"..e["vkxC3lix"].."\112"])or(function(l,e,...)return((l*a)^e);end));local T=(l[""..e["amTjYPls"]..e.V3aNLxY..e[o]..e[B]..e.V3aNLxY..e[o].."\97\116\97"..e[c]..e[f]..e.V3aNLxY]);local N=(l["\115"..e.V3aNLxY.."\108\101\99"..e[o]]);local j=(l["\112"..e[s]..e[x]..e[i]..e['amTjYPls']]);local F=((l[""..e[w]..e[p]..e["NvHfpVe"]..e[s]..e[v]..e["uIe0oSYY"]])or(l["\116\97\98\108\101"][""..e[w].."\110\112\97\99"..e["uIe0oSYY"]]));local w=(l[""..e[i]..e[s].."\119"..e['amTjYPls']..e.V3aNLxY.."\116"]);local w=(l[""..e[B].."\97\116\104"]["\102"..e[f]..e[y]..e[y]..e[i]]);C=((r[""..e[f]..e["amTjYPls"].."\104"..e[x]..e[I]..e[o]])or(function(l,e,...)if(e<u)then return(g(l,-(e)));end;return((l*a^e)%a^D);end));A=(r["\98"..e[s].."\110"..e["zFurDDVG"]])or(function(l,e,...)return(((l+e)-t(l,e))/a);end);local B=(r["\98\111"..e[i]])or(function(l,e,...)return(m-A(m-l,m-e));end);g=((r["\114\115\104\105\102"..e[o]])or(function(l,e,...)if(e<u)then return(C(l,-(e)));end;return(w(l%a^D/a^e));end));local a=(r["\98"..e[p]..e[y]..e[o]])or(function(e,...)return(m-e);end);if((not(l[""..e[c]..e[x].."\116\51"..e[q]]))and(not(l[""..e[c].."\105\116"])))then r[""..e[c].."\110\111\116"]=a;r[""..e[c].."\120"..e[y]..e[i]]=t;r["\98\111"..e[i]]=B;r[""..e[f]..e['amTjYPls'].."\104"..e[x].."\102"..e[o]]=C;r[""..e[i].."\115"..e[b].."\105\102"..e[o]]=g;r["\98"..e[s]..e[p]..e.zFurDDVG]=A;end;local a=(l["\116"..e[s]..e[c].."\108\101"]["\105\110\115"..e.V3aNLxY..e[i]..e[o]]);local s=(l[""..e[o]..e[s]..e[c].."\108\101"]["\99\111\110"..e[v].."\97"..e[o]]);local g=(((l[""..e[o].."\97"..e[c].."\108\101"]["\99\114"..e['V3aNLxY'].."\97"..e[o]..e["V3aNLxY"]]))or((function(e,...)return({F({},u,e);});end)));local a=(l["\116\97\98"..e[f].."\101"]["\114\101\109\111\118"..e.V3aNLxY]);l["\98"..e[x]..e[o].."\51\50"]=r;local l=(X);local o=(#E+O);local c,x=({}),({});for e=u,o-n do local l=G(e);c[e]=l;x[e]=l;x[l]=e;end;local s,a=(function(a)local e,t,r=h(a,n,V);if((e+t+r)~=k)then l=l+U;o=o+_;end;a=d(a,M);local l,t,r=(""),(""),({});local e=n;local function i()local l=Y(d(a,e,e),L);e=e+n;local o=Y(d(a,e,e+l-n),L);e=e+l;return(o);end;l=x[i()];r[n]=l;while(e<#a)do local e=i();if c[e]then t=c[e];else t=l..d(l,n,n);end;c[o]=l..d(t,n,n);r[#r+n],l,o=t,t,o+n;end;return(s(r));end)("PSU|26421G10214215111013181b101022721M1722A22S2191Q1G1C1T1M22v1A1927E21V217191J1j121n1H1N23527s27e22F21I1D1721k1Z1L101122C21C27E28i22F1N21V161527e22C1z1I101B2311f1c27E2251Y1B1h1P1921i21C1H1r1P1423B151627e21w1x171G1R1q234141727e22P1f1q1t1818142321b1828621E1928w121822121b1G1j27e22V121h2172171S1q1n141521N288111B29R1T1D23e29c27e2202151F1A181922D28H28i25c2461M21V122791021321028510225218181721421G1J1C1822u2bC22B2961N28T21521E1S22y1e1d27E22b21I1H101T17191K21H2Bj2bl22u29m28p21d2Br1j2BG2311j1g27e22D2121m1n21n2131U151121321i2AH1V1a1622u28W27E21U21927p111n21d21813131T21T21c1D1E27E21z1Y1h21c1x1m1G161b1a1529Q172342Bx27e2311C1A1e21m214151r1T1L131e2Az2B127E25c2411H21V2as1021v2dA2DC2de2CC1022I21H121f1b1C1m29L29N2eJ2181T1N1Y2bU22Y2Ei21Z2122bl21821927r27T1022E14112CW142cy2d017142cd1t1c23B2eo22V27c19121B112bn2fD22A21N1E1f1S21f21H298237191a27E22a2131r21P2fi2Fk22U1I2c22BD1Y1Q161m21321j2791r1122n23621b152aX22w2Eo2361N1K141G1M1721w2eC1023k2641S21V2Eo22C21d2FP21I2191n23f1c1F2D32D51m2d71x21M1j1v21H21l1H1T1923327A2A927c22c25527325F22Y23Y26h22u2691F21K22l26v1221R1022826o21o2fM2at2132a32cb2Ey21Z21e1R1Z2901n2342iR1022f2a01822C27221G21824P26Z21M1B23u21O2EO21Z21H1J1n1v2ap23E2bC22x1q21821o122Fw1D28f25222d26d23a22G2hC24N21o28n27E2bn132C321u26k21d21G21222726w25T24m2iq2fN1029b1j1H2372EO2js21821P171H1l22q2fS2ab1I131b1o21y2hB21c21x21h21V2gA2k91F1r1N1M1q2Ea1F1D2332gk2lE2lG161f2gZ181f111H1H161n2e623529X2a92aB2811t1S102342lD102Ix1S21M2gh2cz22d26v24V21W24S26y1024025x21O2D22MC2f81821I2C12c32c51k23427C27E22R1H1j1I1r1R2CO142JM2M229y102242112g31S2C41922S2Lo102371M1H1s112by2am1U121t1v1l1N162aq2Mb2Hi2HK2gS102Gu2312NN2aA2nR2nt28e1b2NW2NY2o02O223e2j427v191l29B29D1022p29U2lL1R23B2DX1022r2jW1B1D21M2hm1L1S1D122d02BC28Q28s1B2132132AY2302DG27e22621n1O1f171n1X21i2H51G2p22d02k81029f16122LM2bC21T1Y102GP102NJ1b23E2N21022B213161r2C521d21J1d1P1G2b028i2D3122Hg2eY2ON28D1h1122v2PX23427Z2By2i42Kb2m91s1u2352OY2391R2OH1R2lY1N21721K1i2BV2mS287181t21E2151t21D21711152j826r23h21Y151B21223023n2kM2Lp1n22U2M32NO2nq2MY2C62342eI22821o1D1O1s2832Pj10236171R2d91M2gp2Pp21m21f1p1K22q2Ei21V1y2bL1N1J22922925i24B26421K27E26f1f23825022924e24t25226H26Q21o2i51022X171Q21w1924322X22k23O25e1926n2s42iN21D2P622Z2Qc2pL2pN2PP1w21f1f2FV2S72ne21y2GY192142141m1r22Z2A727E2Np2AC2ae2Ag2AI2aK2Jy2an1t2Jp2cj2at21p1o2hp112O221i21P2o821021d1j1623B2BC23B1O1t1p1o131H2P922u2px21y2C92bM2s822r1B2oo172VL1C22L21w26x21h25j1L27321q24421O2S82392GP2LH151l2Kz2j42Cm2cO2352tn22121M21E21U2qc22e21r1R16111k1D21l2cn2832MS2dj1h22c21t2by22421Z2N71T2sD2or2361J2Aw1B1222L22Y21T23b25o23o23121722l21O2V0102UG151o2822Qh191Y2171f2E9192QX2TN29W1i2382QC2212cR2Ct21N2192lu2Lz23B1H28S2QD21k1A1l1h172dg1j1m21g2sG1l1I192nY2322eO22e21F2lz2e62en2Ey2sf2sH2Sj112342s82hi192oO2JO2vd2pb2hJ1c21K219132C52332Eo21x2y12Y32Qx2qC2X221j2rS2RU2co1B22M2hB101822021V2J42dZ2u42pX22d1h2191422N21d2oy21u217172Ds2y32uA1j2an2ha2QP1021823021V2ms2pC28t2Gg2CX2CZ2vO28o102Oc1J1422O2s82Yb1Q1y2qK2Qm2qo2Qp21I23a28m311522b21n112wt23B2pX22u2yQ1V1m311427E22821d2Du2342TN21Y191p22u310426O25r21O2Bc2h31622b21y22G22e111323d2J42381629H2D128X2eZ2m71B1n2ua151D1S1621V23N21m1r23x29N23k2K62oy21V21D1R1429M2lL22421U131i311w2xS21u1Z2a31c1l1t1q1R1A2132El2DD21c2qC22a21J18122Rd310p2an23B1l1m2n3282142yo21m2182Sr2h81N21M21l1j1r1D1N1T2WU231312M1T2H02bC22S2V51c2NX1P151922U2Tn2371A1n2312BC2Z82SI1n21H2F42mS2371i2t31c172c41L2lL2D02Hp2CD2zF1l2ZH2Cv31122D02Qc29F2h81627p22H22V2RI2222Bc2202IT181z2vr22U2Ei237172Qg2c522s2ZJ315R2zh2DV2Mb2oC1Q1B2NB2LH1723b2j42qY2cA315P2ko2e51t1H21M2MR151p1i2Yr27Q2pX2n42vV29A2nn22B21e1o21G2uK101I2q021j21J2Pt2H82oX2BY2IN21R312o1q171w2mG315w27D2NF1z314y1D21O2sg315B2352eI2oc2Lz1222S2s82D41B1t21Q21Q318H2302xs2P02jX2MF171o1N1d312X2WE1h22D23i21424723222J26c24023z2w92NE2yb315L315n311t2kN2c0314c23b2tn22a21f1O2OL2KN21y2781Q23b2mb2Vu1D1631422Lv16319K2sL21Z2141R1s191c21Q21i29U2p227b22c23A23n24g22T24B1Z22X26m2u12ZS1r1o2322sZ15316B2EI220310f2Ct2832J423b1M2Rm319g2r422t1m13316E2Kn22Q2bY132332qz31432Tq23B31Am2Bz21M141o1p1D313q2WU21o21f312x312z21R31832q1192fA2Ft318121u21c2aH1a1x211317V2dV2Eo319i162L42KB2332S822821R2af2uY314Q2pX314w2pP1i22s2px28Z2go1M311H27E21S2672672qS27e2Wr1q316p2ea316c2oR31AT142Z922g310421y1623425k26F25t25q23122126a26X312b2Fd22p1K311P1s2qH2o823b316y318B2yS1q182KY2Wf2Y3311x2fE311f1g2iV2K91K1T2Il1L1523626A24m24H24q21s1324124231972K9314L314n314P112312px311n29N1R310S28I22o1E21A21V2sL2Ug310M1y21B2gU172ZY2rt1822v2MS2yB31BK141E2Mw2ah2nc2s828Z1B21w22V2IY2Xa316D2sR2Yp1r2312Mb2X2315u2fj31132oY21t21G311P19172Hx21731ar2OR22R1c2nT122OP31662131V102O021C310L2312s823831A2316f2Xy22s2Mb2241z1821G317Z22u2MB2312jx1F1V1u2X92n131812nP2SS314I2JV2r22Uo2Sm2So2sQ31HE314j31eP314O314q2mS319S319U2es2Yq151V1j22U316y31402P62Gz31Gh2QW31F731F92W11521426z25525025f31Aj2SL314031422rD1z21F314M31hp1122m2421321l23r21F1d23X2432Sg2dH102ZE2zG314p172C82bk2Bm2nN31i11S31I32yO1121j2Ge1t2vC12312q2bZ21O313s1a21j31h22qc2281Y29J2nS22622H1O2Ys28g310T23G21O311l27e21t21e102NQ2fr2EY2np315v31e72Qd2132Ky31Gm2QX2oy22p22a172v51731ko11313Q2C42102B727E27s2S822d1S1A2F01s312u2352o421d316K314p22C1j313y31812o51c31G12fk31CT1025C24y21e21V1O1R29e1X2zo1k2VJ2Zy2oO2132161A2KX1821a27w1L21D21f310Q317w21V2Hb22O101W2342hB26823Z21b31082kN22621b2BL22d23e23524225Y1I26W2w721o2se2vb1N314631aX1M1J1S2312z12z32M01T21s310I317S21v21i29N31my1q21j2T1182T32L02ey2tp2BG28X12230318f28R1m21H2Vb2vD2l12rE2l523931IG21j2Dr2Hu2mX2nk2N02oy22231C52TQ317x31H22eo2oN2uC2B722V31542lz29p312r22W29N31D731Ho31er231111227E22n1O21W2Wh310E29V2QC2342NX2rd2lZ2rG2ri22Y31482D3313N18313P313R313t21c2122xE1T2VL2Jm2P21Q23e2s82Ix1r2262312J121v22R27324q24m23622022026L31IY2N32vv31oH1g29C318t2qM2B522b24a2p223n22023o31962H22h41431Dr2S62qC2uq2lZ2ai2FX31gH31pQ2ne313M2A32rD2A322j2hB21s1W31mc22P21S24y22K21423N2722451F31041g22831md310T27e1331l52fP21j313w2Z62M42n52fW2L6310421622y2eh2oR23231aM2po1n31c0310T21M23e31RK2QP21E23631k331j031pJ181531bB31152Hi141C1U2zc2NE2C02C231o731M831rl21s31Se31oa1d2172fb2s82Oc101h31sM1U21v24U25d1e1E24723U25g25531mv31gd1H317c1R2302Px22T2Br2Uy2352Sl31C01r2Lu21p2Cn181O21121f2aP21X24s26H25227029Y25s26031Rg2qp23K25C2m921526321H26G1A21F25g26521O2QC31Gy318421r29629829a2px2382e831d32OY2262171h132VH1p2122181J1p1E2sk31iZ2oc1N31gF28T2LZ31ER2xa31pr1Y1a2A32LY1b22131M91921531s0314a2Ah2yO31E32372vL1m1P31N42ey22321A2ME2182FX319C31bH2hx2GJ2gl2352H61G1G21M21C112rr1h31L72zi2Fd23b1I2kx1S2bL1E1H31ey28i21v1321v2Bc31Ge2uY1q112C41B31e3311n1d27T31cd2ne31lD2132hW1V22U31up21L1K21e31O62Mz2Ma2gB2xt31F81n31FK316R21U25421924N24I22226F26N31un2ei2tp27P2o12vE2fd2Q4314O1v1n31Jc22v2j422c21N27A31xF2V12v3319w1D2FC2HR318H21r2Rp2ly26N23Y2fn1I1124J24W2QP111e1Y21927E111131z225Q26527E2jw31Z225V31ue27a313i111y21D27e313d31Z226325K27E151531Z222A21t27e161631z21Q2FD31KO31Z221F1w27e29T31z226b26O27E2zF31Z221u22931Kv1A31Z223t24A27e1B1B31z2192gu101C1c31Z221r21827E1d1D31Z222122i27E31tb31Z223k24327E1F1f31z226225L27E31WI31z21P2fX31t42yj111831x7317k1i31Z222G22327e27Y31Z224523q27e1K1k31z223r24427e2WF31z224a23T27e1M1M3209320b101N1N31Z223q24527e1o1o31z221E1W2791p31761124T25A27E31D131Z224423r27e2N831z222I22127e1s1s31Z2142Ht2C31t31z225624p27e1U31H91126o26B27e1v1v31z223l24227E31R631z225U25D27e1x1x31Z222S319g101Y1y31z223V24827E1z28r1126z26g27E21021031z226l27227e21121131Z21X31K61021221231Z225924u27e2Pf31z226D26u27e2UJ31z21m311521521531Z22vl27921621631Z222R3122102Ad31Z2102A8310u21831Z224P25627e21921931Z222k22727E21a21a31Z221621L27E21b21B31z226y26H27e21C21C31z224c23Z27E21d21D31z227326k27e21E21e31Z225I25x27E21F21F1131a5327031zc31zD1123522Q31ZH1231z226p26a31RM31zn26R26831zr1431z21D1u31zw31zY1125h25Y320232041125124m27e32081126w26j320c1831z224U259320H19325g2cK101a320n1121431ym28T320T1123g2I4320x320z279325q321431z221327510321A1122722k321E321g1124323k321k1g31Z222w23f27E2Lx31Z225y25h27E321v31Z2121g27932201122P236322432261123a22T322A2YW1121P21A322F322H1121h213279322l31Z2325Q10322r31z223o24727e322X31Z222h22232321q31z223j23032371R31Z221v228323C323e2lw31ov323I31Z224W24j323N323p1b1p279323u31z227126m323Z1W31Z225424R324432461124H24Y27e324B31z222J220324G324i24623p324m324O1126625P324S324U1124L25227e324Z31z2171k325421331z226c26v325921431z223p24627e325E31Z226X26I27E325J320U1Q27e325P1125B24S27E218325u1125524q325y32601121921Q326432661121b2tm10326B322c322E10326H323F2br10326n31z21A1P326s326U2wV2wu10326z327121Q21f2JW31zC31Z221I21027931Zi1122E21X327e31z21e1t327i31Z221M215327n31Z222022j327s31Z221021j327X1731z22l5328231Z222v238328731z222l226320M31z22KG279320S31Z22182IM328M31z224923U3213321531zc1J279328V171L279321F31z225k263329431Z225x25I3299321Q1o1a328O321v1121F1x329j2N631oU2Gl322531z221221h329T31z21G31ku322G31z221t22a27e32A41126U26D322Q322s1123223h32ac322y21w22f32Ah31z223E22X32AM31z222622l32ar31z221D2Q532aV31X831IZ323O31Z227226l323T323V31kQ2OR32401125F25s32BD31Z226025n32bI324c1124b23s32Bn31Z224823v32BR31z222T23A32bw31z225e25T32c132502D72CT2b932C72D72kn325A1126S26F32cG325f1123Y24D32Cl325k1122f21w32cp21731z223z24c32Cu32CW23F22w32D031Z223x24e32d531Z222921u326a326c2rt314932de326i1125324k326m326O1123C22Z32Dn31z226v26c326Y327032722Db32dX1127026N327931Z222o23732e6112232k41031Zs1122821V32EE111p31xT320331Z221k21732eM31Z225Z25G32EQ1122x23E32EU1123323G32Ey1125824V320r328i22z23C27e320Y31Z222D21y32Fa31z224K25332191e31Z223422R328z31Z21c31Gl10321L31jd211279329a1122222h329E32fw24f23w321z32g123I231329o31z223731ma31gM329u326K329y31Z221Y22D32gg322m1132fD27932A81125724o32GQ31Z223U24932GU1126j26w32gy1123d22Y32h21123831Oj32h624o25732Az327k1v32b332hE25j25W32B831z224Z24g32HL2Rt1N27932BJ31JD21032hu111v2Jy10324n31Z226125M32I231g727932c21123M24132c631Z221121i32cb31z224m25132iI31Z222522m32iN31z226F26S32IS31Z225w25j32IX31Z226t26e32j1112G432J51122B21S32J931Z225024n326G32jE21521M32JI31Z21K2eY326t327121r21E313d32741k28d32Jz31eS23I327e2aM31xt32K7327j32PK327n23N23L26B269327E25U25u329E1k1N329i1031Ko1x2ce172J0312O2AM314232KO25g25z32EU1k25f329D328b320N1k238329N328H32q61r1b22t22T32F232pr328m112ZF2B832142V51a317S320S31Kq32fh320s32r52lH28i328c31z21V312R32R529y19320s32QZ1G1o32071723N23Q25z32pZ31zm26A327d317k32Q132Q32DB32q61j1325f25f32jU29x32aU32K825N260327N111g1k31152DB1I1k24A32Iw31zM32s01322w22W32Sg32H7327I2D732jC31ZM32SH32Sj327i32q62h532so32K832h032SB32Ra32Ea32sI32sk31Zx32q631Ec32sO31zX31z225m261327s32St28i32TD32T7327s32Q62sR32So32kg1132T332q431kM32T52Q6320432Tl32tt32q61N1732so327y23H232328232tI32kk32ty29t32Q61o1832so320D1132tF328732U83105328332Ty2Zf32q629332So320i1132u5320m32uK320I32ty328C32Q61q1a32So32rC32ut32U6328H32Uk32rC32tY320s32Qq1b32sO32qV21a2v832Qx32tV32f232Ty320Y32q631wV32So32L51132vg32Fa32uK32l532ty321432q62AP32sO328Q32Tr32h1328u1E32uk328Q32Ty31tB32q61u1E32SO328V32TS321F32Uk321A32TY321f32Q61V1f32So32FJ32vr32vh31WI32UK32Fj32Ty31WI32q632lm32so32Ln32UI321p32UK321L32Ty2lX32Q62Lw32SO32lr32VS321u32uk329a32tY321V32Q6327a32So329f32uh32tg325r32fD32TV329f32tY27Y32Q6131j32so329k32uu10322532uk322032TY322532q6141k32so32G432w2329T32uK32G432TY2Wf32Q62wE32SO322b32wQ329Y32uK322b32TY322G32q62gP32SO32Gc32xL32mE32uk32gC32ty322L32Q62pP32sO32gh32xB322R32uK32a432TY322R32q631tY32So32mJ32x1322x32uk32A832ty322X32Q6312532So32aD32Yk1031d132Uk32Ad32ty31d132q61a1q32SO323332yu2o82Gu32TV323332Ty2N832q61B1R32SO323832V532Ar32uK323832tY323D32q61c1s32so323d32GZ32w32Uy32UK330M32Ty2UY32Q61D1t32so2UY31Z232Xb323o32uK330y32TY323o32Q61E1U32SO32h93300323u32Uk32h932Ty323u32Q631H732So32B432zO31r632uK32b432TY31R632q621C1w32SO32Hh32x1324532Uk32401K244323Y10324532q621D1X2302303324326N1X2472473324331q224224324532f732F910324H2V52101z32bd2yJ26926A32452DB21D21P26k2683214313d332s26A2DB31ZS1K2H732Bd33251x254254332j31ZD28E324A32hq28s279324h32A5333g324n2v51Z32Nn33231x2YJ23r23o3245313d332X21b1Z270270333623932K2333S333a32SO333E24N25032HP31z226n27032nO24X24I32hy11334F32bw2v51Y211332r1i24U24T333x327j1K33453339332B334932be334M333H31z225c25v32No335332nt1125o267334n16334P334r1Q1o1W1x333626h32jy3347335022w333E335332Nl22q2wK332M1z332o332q333S2YJ23m23l324531zX3333313d31zx332X332Z24l24L320333671432kG333732jc332A3326333C333e22y23d334d11336O32nO336S32nS32E016333q334r333V32453203333z3341270336h334Y335P33263351334e334g335432Sc2r4333l334l337c335a335C335E335G33611i335I335k336E1i332T32033208336i334Z336L333D32BE337k337D3381337G3381333O336x333R3245333U333w29G17332X27126P23I23I337V3377336K1X337A1131DY32NK32Hq3353337g21q31zA336v337b337l334q337N334T3245338J3346338L338N335T32hq1O3181337G335932BS1f1t279324t334o338z3389337o335j338c32sh24L32Ay33781X24F24f338L24H24H339K24c339U338C332X2M023J23J337V3338339R336m3380335D338233AB338433AB3386336Y337N2722713392338d21p1j1u2db312O32sh335n337X338M335r3352337c32nL26g26Z32Bn335z334R3363324529t3333320333B7337S26A320332uX33A7338l33A931Z2338132nl3383324i3385336w33AH339k33701X2zF338E338g23I32Ux338k3245335q333E338p337D338S324I1u31VG335A3353339h335F339J333t334S334u33bs3288334x339433BZ337933AW338x337d33993358337i339d339F1033cA337m339K337p33cG339o339q338l339t339v339x33CD339z324533bT21P2M029T33be336J33ck333B337z33BI33aB33BK33ad33BM33aF33bo338833CD33AJ33d819332X33Ao2382392zF33b81632V933BF33Df33bH335b33DJ32hq33bl33Di32bR333P33dP338A3245328c33BU338H32v933By334833Cm338O18338Q33CN337G2Rg334K33C932lp33cb334R33911x33eI33cj33EK335S33AY3398339A324I339c31z2339e339g33eU33Cw33CD33cy32v9339P33aU33D333Df339w339Y33a033Ef33Da1R22p22p33e133de333a33e433bJ33E733Dl33e9336V33eB334R33DR33eY1a33DU1U33DW328C336F32vk33e233fu33DH333f33EO33gf335X333m27933AG33ec1i33bR320S3373334232vk33eJ33C032BE239315333C3337c337g21h21233Es337C33cv33cC2yJ33Ex33Gs33f033gu33cn32nl33CP33Gi337H334k22c21z338y335H339m32vK33Fg339R33fi333a33Fk33d633A033gP33fO2pf33gB33Ft332b33Fv33e633fz33ae33eA338733G233Ak1X33hV33Dv239320s336f32VV33Gc33I033GE336U32nL336u337G336u33gL336Z338B320Y33GQ27032Vv33gt33cL333E33gW336Q33C431z221S22b33H333Hk339033cF33iU33HA33IW33Ax336Q33HE339B33Cr31Z233HI33j533cX339M32vV33Ho33d233a033hr33d52yj33D71X33iR33Fo1531D7320z337w33A833Ge33FW33I333dM33I533BP33DQ33i833JU33iB33jU332Z23Y23y3214336F32w733IG337y333e1T2lv337D33KL333K324I33KO33g033i6337N33br321433iS32W733Iv33av333e21Z22c33iZ33gZ324i24123m33J433CU33fb33h633CE324533kY33J933l033Jb337D2ua33CQ334k24v25833JI33fD339m33kw332y26825E25e31TB3333321432wI33KI33dG333E24G24z336Q33M432no33M733KS33k633ED1x328V333f333s32SH33A7324B32Q621E1y333c32nl1632PI337G33MP334K33mS33LA339I32HP111A2161X324b328v1L31Km337N1w1Z324532WI33Kz338N22422N33l432No22M22533l933h533ew33cF33na33lG339633F331Z225P26633lL338w2v531DP33mv33EV337N33CY33LX33Bb31tB32wU33M133e433KR32Nl33kr337g33kR33IO33Ku338B32wP3353339K33N7324532Wu33nb33el23s24B33nF33hF26h2Mn33nv33ET33MW33J633ok321g33cI33Au33NP336Q21E1X33NU335a33JH33Ny33fC2yJ33cY32Wu33JM33dF33hQ332b33hs33jR33a032Wp24S25B334R31LN33Oy33Mh33hZ33kj33AA336Q33e833e533K533gM33g332WP22U239334r2r6335k32wu33At339r33P2337d33n433KP33b3337n33b51x31WI3333321f33qI33O331Wx2YJ33jz33BG33GE33O832hQ33Oa33kQ33kM33Od33Bq338B32lR33oh33Cd33Oj333T33qO33om333e33OO33oQ337G21x22E33Nj33lb33nL338933R533NO33El3397322T33P533hf33F728F33HJ33p933lc33Cy32xE33PE333a33Pg332633pi1I33Js32Lr23b22S33PO1R33Rg33pr33Au33I133Pv33fY33pX33mA33pZ33i832LR33q233Q41U335K32Xe33q8339533rj33Nq31kQ33n5332n16332p33B4336432462gk33bb329a32fw21n214334r26b268324527y33Ly1d32Y233o633k133I233Sd33I433sE33ip33T832g123132PL337n26q26p33Tk32sH33R632Be26q32Pw33Gy32NO21o21B33rd33Ow339K33eX32Y233tT33HC32hq26i26x33P632Bs33sI33rR33Hl335k32Y233rV332B33Rx1X33RZ33js329k26926q33S533tR33qP33e333te33sB32nO33bN33g133aI33i8329K26k27333sj33uG32g126425R33T533t71X322533tA32Yd33TD33M333M5337D33m9337g33M933qX33Cd33BR32Y933mf332J33jZ33mJ21d33Ml33mN32hQ33mu33mr32PI335a33mU33NK333h33mY33n0324B32Y933qc33n633N833VC322633p033q933el21d335y33TX33hF33Nh33u133NZ33U333cF32yd33U633HG337D33nS33UB31z21633Nx33W433jJ335k33vd33Bb322532yn33Vg32Be33QS31Z233Qu33XA33QW33dO33TJ1X32Yj33r12Yj33r332YN33ws26e26T33R9324i26525Q33WN33pA33ld33xg2yW33WF33so33F233P333rM33jE33hH33Rq33x033lQ335K32yn33uI332633uK33uM33a032yj25D32RS339k33Pp33xw33s833k0333e33K233Tg33K433TI33v0324532YJ33uD339k33Q533Yk1k33Sn33df33qa32nl33WA33ST33Sv33qF33sX322g33332Wf33Z933x432Q1322M33uT33gd33KK33Km33O933KM33Ob33Xd33uZ33qY324532gh33Xi1I33R332z733xM33XO33wK337g26725O33XT33lC33Ex33Zv33Ri33Y0337D33P433WW33rP33Lp33Pb339M32z733yA339S33jo33PH33Jq33s033a032gh24023n33uR1X32z733X733fz33dk33ux33dn33zo33K733zq32Mf33yV33CD33Yx32z733Z033F133lI33z333Ss335Y33SU3360339k33QG322r3333322l341G33ZD32zS340T31x833zj33Qt33zl33QV33gK33XE33Oe324532Zn33zs33R332zS33wS33R833zY324i21I338z33C833H433RE33ox1x341Z3406341832HQ340933rN33Jf340b33UE33o0339M32zS340G33yc340k33js32zN25l262340q341l33pS33M233pU33aC340w33py33I7341v322Y34122yj33Yx32ZS341633HB33WT341933qd341c33Sw324531D13333322x343h33BB3214330F341M33YO33pw33UY33kT33zP1x330B33TM334R33tP3245330f33ws1S32w5342231Z233TZ340233Rf343U32an33xY33Z133sp336q33u9340A33UD33Y6340D335K330F342N340i33ry342P33A0330B23N240340Q343n342w33sA342z33hF343r33MB1I33G3330b33v333V5344931z21S2hq337n33t63245323D336f330R341m33x9341N33KP33xC341s340Y33mc330m33wT33OI33wc330R33WS33l233Xp31z233L734473429345t342c33U731z233lk342g33lm33lo342J33X11X345P24I24x32bd2rT2KN33W533Mz33n11y345E33BB323d3313341m33iJ32Hq33il324i33in341T343T330Y345Q33R233Wc331333Ws24Q255345w1121L216345Z33wp324534723462343B32hq25r264340a33P8344I339l335k3313344M33d433Fl347c323J32Mg28I33Yi33S61X346p344W33uV344y33th33vN2YJ33G3346Y34352RI33sk347y323J33Yz335o33xZ342D31z233z4341B33z6341E33sx323o33332uy348N346n1s331O346Q336P337D346t31z2346v345N33Gn338b331K341x33wc331o3473347534441126826R347a33cD33EX3496347e33rk11347H347J33y53428346a331o347P33fJ344P3245331K24E23x340Q348t348033yn33Tf343q340x343s340Z1X331K348833yx331O343933ja346333SR343D348k33cd33qg31r63333323u31R6320331z611324532QK32sh31A233gg1Z2b1332N1l21I1y324h324b2Am21733Y2335Y32TV34B21f31IZ33w52N6310t31Zc327i102Zf31rM31YK2zk23B311b213319a319T31kD315a2za31Hb27E31Uq2q131862z92832Y6320t2y9318134bv1D31US297299316u31mJ31Ml2bM316V162CA31mw31pn1q23C312R32sh33N5347v21D2Ck313D329e11325c31zb31zc2co28i32dw28N32aU32q0112ey31zC32q62qW32dw34Ap21d2QW32ju34D82Ck29t2JW34D52v531CA2Vl2l331zM32dw34bc31rl27E"),(#E-S);local function o(l,e,...)if(l==984217735)then return((t((t(e,371172))-150616,799943))-52226);elseif(l==467617687)then return((((e)-266248)-587007)-652013);elseif(l==309929276)then return((t((e)-395015,600327))-984650);elseif(l==439278992)then return((t((t(e,298138))-51495,174484))-60590);elseif(l==333685046)then return(t(t(t((t(e,90933))-253676,695388),638232),237091));else end;end;local n=e[(417425520)];local p=e[(140206730)];local u=e.Xye2exG;local o=e[(441530981)];local w=e["hP57VLvWiD"];local f=e[(352764530)];local m=e[((#{361;610;38;446;(function(...)return 31,336;end)()}+171585482))];local y=e['cs99v'];local function i()local e,n=h(s,a,a+f);e=t(e,l);l=e%o;n=t(n,l);l=n%o;a=a+f;return((n*o)+e);end;local function c()local e=t(h(s,a,a),l);l=e%o;a=(a+n);return(e);end;local function r()local e,r,c,n=h(s,a,a+w);e=t(e,l);l=e%o;r=t(r,l);l=r%o;c=t(c,l);l=c%o;n=t(n,l);l=n%o;a=a+y;return((n*u)+(c*p)+(r*o)+e);end;local function u(o,e,l)if(l)then local e=(o/f^(e-n))%f^((l-n)-(e-n)+n);return(e-(e%n));else local e=f^(e-n);return(((o%(e+e)>=e)and(n))or(m));end;end;local E=""..e["DfZ3X3s0nt"];local function o(...)return({...}),N(E,...);end;local function I(...)local D=e["hP57VLvWiD"];local F=e[(369897704)];local M=e.nvttXdLQ;local X=e[(3753648)];local w=e[((352764597-#("i am not wally stop asking me for wally hub support please fuck off")))];local T=e['pPFeiOcqRC'];local S=e[((344499221-#("why the fuck would we sell a deobfuscator for a product we created.....")))];local A=e[((#{(function(...)return 596,310,808,40;end)()}+616539180))];local V=e["mqN5PZ"];local I=e[((#{997;(function(...)return 752,882,984,685;end)()}+199356629))];local g=e["cs99v"];local k=e[((308176181-#("this isn't krnl support you bonehead moron")))];local n=e[((171585520-#("psu 60fps, luraph 5fps, xen 0fps")))];local o=e[((#{618;843;407;362;(function(...)return 576,...;end)(35,571)}+417425513))];local P=e[((629521820-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop...")))];local N=e[(222530284)];local y=e[(784734997)];local E=e[(814679517)];local m=e[(441530981)];local p=e['MaF8y'];local v=e[((673420758-#("why the fuck would we sell a deobfuscator for a product we created.....")))];local B=e[(803926114)];local function C(...)local b=({});local f=({});local e=({});local Y=i(l);local L=c(l);for i=n,r(l)-o,o do local f=c(l);if(f==E)then local l=c(l);e[i]=(l~=n);elseif(f==V)then while(true)do local a=r(l);local l=r(l);local r=o;local t=(u(l,o,I)*(w^p))+a;local a=u(l,N,T);local l=((-o)^u(l,p));if(a==n)then if(t==n)then e[i]=(l*n);break;else a=o;r=n;end;elseif(a==k)then e[i]=(t==n)and(l*(o/n))or(l*(n/n));break;end;e[i]=z(l,a-X)*(r+(t/(w^v)));break;end;elseif(f==D)then while(true)do local r=r(l);if(r==n)then e[i]=('');break;end;if(r>S)then local n,c=(''),(d(s,a,a+r-o));a=a+r;for e=o,#c,o do local e=t(h(d(c,e,e)),l);l=e%m;n=n..x[e];end;e[i]=n;else local o,n=(''),({h(s,a,a+r-o)});a=a+r;for n,e in j(n)do local e=t(e,l);l=e%m;o=o..x[e];end;e[i]=o;end;break;end;else e[i]=(nil);end;end;local a=r(l);for e=n,a-o,o do f[e]=({});end;for C=n,a-o,o do local a=c(l);if(a~=n)then a=a-o;local t,m,d,p,x,s=n,n,n,n,n,n;local h=u(a,o,D);if(h==o)then x=(c(l));t=(r(l));s=(i(l));elseif(h==y)then elseif(h==D)then x=(c(l));t=f[(r(l))];d=(i(l));s=(i(l));elseif(h==n)then x=(c(l));t=(i(l));d=(i(l));s=(i(l));elseif(h==w)then x=(c(l));t=f[(r(l))];s=(i(l));elseif(h==A)then x=(c(l));t=(r(l));d=(i(l));s=(i(l));p=({});for e=o,d,o do p[e]=({[n]=c(l),[o]=i(l)});end;end;if(u(a,F,F)==o)then m=f[r(l)];else m=f[C+o];end;if(u(a,y,y)==o)then d=e[d];end;if(u(a,g,g)==o)then s=e[s];end;if(u(a,A,A)==o)then t=e[t];end;if(u(a,B,B)==o)then p=({});for e=o,c(),o do p[e]=r();end;end;local e=f[C];e[-P]=x;e['li1Nl6pMQ']=d;e["cb4x8Df"]=s;e[235892.8690886823]=m;e["y4Ig6"]=t;e['fCvmj']=p;end;end;for e=n,r(l)-o,o do b[e]=C();end;return({['BuTvX8']=Y;[125920.0290576988]=e;[2489.723700458521]=L;[M]=n;['JDu8zm9v']=b;['lk00zePbTd']=f;});end;return(C(...));end;local function s(e,i,u,...)local c=e["BuTvX8"];local r=e['lk00zePbTd'];local y=e['JDu8zm9v'];local l=e[125920.0290576988];local l=0;local o=e[2489.723700458521];return(function(...)local e=(true);local m="fCvmj";local x={};local p=235892.8690886823;local e=-(1);local w=-130130;local t="li1Nl6pMQ";local e=(902482564);local e={};local f=(N(E,...)-1);local n="cb4x8Df";local a='y4Ig6';local r=r[l];local d={...};local h=({});for l=0,f,1 do if(l>=o)then x[l-o]=d[l+1];else e[l]=d[l+1];end;end;local l=f-o+1;while(true)do local l=r;local o=l[w];r=l[p];if(o<=11)then if(o<=5)then if(o<=2)then if(o<=0)then local c=y[l[a]];local a=l[m];local o={};local r=T({},{__index=function(l,e)local e=o[e];return(e[1][e[2]]);end,__newindex=function(n,e,l)local e=o[e];e[1][e[2]]=l;end;});for n=1,l[t],1 do local l=a[n];if(l[0]==0)then o[n-1]=({e,l[1]});else o[n-1]=({i,l[1]});end;h[#h+1]=o;end;e[l[n]]=s(c,r,u);elseif(o==1)then local n=l[n];local o=e[l[a]];e[n+1]=o;e[n]=o[l[t]];elseif(o<=2)then local o=l[n];e[o]=0+(e[o]);e[o+1]=0+(e[o+1]);e[o+2]=0+(e[o+2]);local n=e[o];local t=e[o+2];if(t>0)then if(n>e[o+1])then r=l[a];else e[o+3]=n;end;elseif(n<e[o+1])then r=l[a];else e[o+3]=n;end;end;elseif(o<=3)then e[l[n]][l[a]]=e[l[t]];elseif(o>4)then local o=l[n];local t=e[o+2];local n=e[o]+t;e[o]=n;if(t>0)then if(n<=e[o+1])then r=l[a];e[o+3]=n;end;elseif(n>=e[o+1])then r=l[a];e[o+3]=n;end;elseif(o<5)then e[l[n]]=(l[a]~=0);end;elseif(o<=8)then if(o<=6)then e[l[n]]=u[l[a]];elseif(o>7)then e[l[n]]=#e[l[a]];elseif(o<8)then local o=l[n];e[o]=e[o](F(e,o+1,l[a]));for l=o+1,c do e[l]=nil;end;end;elseif(o<=9)then local a=l[a];local o=e[a];for l=a+1,l[t]do o=o..e[l];end;e[l[n]]=o;elseif(o>10)then e[l[n]][e[l[a]]]=e[l[t]];elseif(o<11)then e[l[n]]=e[l[a]];end;elseif(o<=17)then if(o<=14)then if(o<=12)then e[l[n]][l[a]]=l[t];elseif(o==13)then local o=l[n];local n=l[a];local a=50*(l[t]-1);local t=e[o];local l=0;for n=o+1,n do t[a+l+1]=e[o+(n-o)];l=l+1;end;elseif(o<=14)then e[l[n]]();end;elseif(o<=15)then e[l[n]]=g(l[a]);elseif(o>16)then local o=l[n];e[o](F(e,o+1,l[a]));for l=o+1,c do e[l]=nil;end;elseif(o<17)then e[l[n]]=e[l[a]][l[t]];end;elseif(o<=20)then if(o<=18)then do return;end;elseif(o>19)then e[l[n]]=e[l[a]][e[l[t]]];elseif(o<20)then e[l[n]]=l[a];end;elseif(o<=21)then e[l[n]]=g(256);elseif(o==22)then local l=l[n];e[l]=e[l](e[l+1]);for l=l+1,c do e[l]=nil;end;elseif(o<=23)then e[l[n]]=i[l[a]];end;end;end);end;return s(I(),{},P())(...);end)(({["mqN5PZ"]=((48));[(596940262)]=(((#{(function(...)return 905;end)()}+522233230)));[((#{13;25;}+629521696))]=((130130));[((308176179-#("ironbrew deobfuscator go brrrrrrrrrrrrrr")))]=(((2126-#("Are you using AztupBrew, clvbrew, or IB2? Congratulations! You're deobfuscated!"))));[((460229645-#("why the fuck would we sell a deobfuscator for a product we created.....")))]=("\99");[((165645265-#("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either.")))]=("\102");[(471639919)]=(((118-#("who the fuck looked at synapse xen and said 'yeah this is good enough for release'"))));[(507277371)]=("\98");[((#{37;692;526;(function(...)return 481,682,979,871,...;end)()}+777086623))]=(((#{804;856;}+507277369)));["NvHfpVe"]=("\112");u9BvF=((327049542));[((#{345;(function(...)return 157,...;end)(890)}+15252078))]=((682798897));[((#{797;947;}+171585486))]=((0));["pPFeiOcqRC"]=(((109-#("luraph is now down until further notice for an emergency major security update"))));[((#{(function(...)return 420;end)()}+231655198))]=((768586104));[((#{215;}+8182642))]=(((#{375;}+164)));DfZ3X3s0nt=("\35");[(447982493)]=(((990344097-#("psu 60fps, luraph 5fps, xen 0fps"))));[(369897704)]=((8));oFCNH75BNz=((101648236));[(183442224)]=("\111");[(231976352)]=(((183442409-#("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either."))));[(222530284)]=(((#{39;384;63;76;(function(...)return 163;end)()}+16)));[(784734997)]=((6));[(441530981)]=((256));["cs99v"]=((4));Xye2exG=(((#{442;98;979;(function(...)return 695,783,453;end)()}+16777210)));[(418494573)]=("\104");[((#{299;(function(...)return 316,401,977,935,...;end)()}+217717231))]=(((#{285;84;10;617;(function(...)return 386;end)()}+165645075)));[(524335690)]=("\109");[((#{248;970;781;577;(function(...)return 760,624,267;end)()}+240163753))]=(((460229669-#("uh oh everyone watch out pain exist coming in with the backspace method one dot two dot man dot"))));['amTjYPls']=("\115");[((#{288;855;}+655372514))]=((129));[(855086365)]=("\117");rAJnDNNT0=((90));[(344499150)]=(((5032-#("psu 60fps, luraph 5fps, xen 0fps"))));[(821117717)]=((855086365));[((273459975-#("luraph is now down until further notice for an emergency major security update")))]=("\105");[(548624182)]=(((#{504;}+118403756)));[((122263751-#("'psu > luraph' - memcorrupt 2020")))]=(((418494615-#("this isn't krnl support you bonehead moron"))));hP57VLvWiD=(((63-#("psu premium chads winning (only losers use the free version)"))));['V3aNLxY']=("\101");[(417425520)]=(((41-#("still waiting for luci to fix the API :|"))));rYC2wBd2=((14));[(337500559)]=(((524335772-#("who the fuck looked at synapse xen and said 'yeah this is good enough for release'"))));[(352764530)]=(((#{74;}+1)));['MaF8y']=((32));[(682798897)]=("\103");['RgoUmN']=(((274-#("this isn't krnl support you bonehead moron"))));[((673420748-#("guys someone play Among Us with memcorrupt he is so lonely :(")))]=(((#{993;978;(function(...)return...;end)(318,634,478,343)}+46)));[(118403757)]=("\114");[(990344065)]=("\110");[((327049574-#("psu 60fps, luraph 5fps, xen 0fps")))]=("\97");['nvttXdLQ']=((949074));['uIe0oSYY']=("\107");[((#{402;132;(function(...)return 857,347;end)()}+3753644))]=((1023));[((101648268-#("psu 60fps, luraph 5fps, xen 0fps")))]=("\116");[((#{176;826;(function(...)return 34,595,117;end)()}+115146701))]=(((#{(function(...)return;end)()}+273459897)));[(522233231)]=("\108");[(199356634)]=(((127-#("I'm not ignoring you, my DMs are full. Can't DM me? Shoot me a email: mem@mem.rip (Business enquiries only)"))));[(768586104)]=("\50");[(616539184)]=(((37-#("'psu > luraph' - memcorrupt 2020"))));[(803926114)]=((7));['vkxC3lix']=("\120");['qiSEUBMb']=(((307-#("LuraphDeobfuscator.zip (oh god DMCA incoming everyone hide)"))));zFurDDVG=("\100");[(140206730)]=((65536));[(814679517)]=((10));}),...);
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local ScreenGui = Instance.new("ScreenGui")
+local MainFrame = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local Header = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+local UICorner_2 = Instance.new("UICorner")
+local TextButton = Instance.new("TextButton")
+local TextButton_2 = Instance.new("TextButton")
+local HomeFrame = Instance.new("Frame")
+local AutofarmFrame = Instance.new("Frame")
+local TextButton_3 = Instance.new("TextButton")
+local UICorner_3 = Instance.new("UICorner")
+local TextButton_4 = Instance.new("TextButton")
+local UICorner_4 = Instance.new("UICorner")
+local GunMods = Instance.new("TextLabel")
+local TeleportsFrame = Instance.new("Frame")
+local TextButton_5 = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
+local TextButton_6 = Instance.new("TextButton")
+local UICorner_6 = Instance.new("UICorner")
+local TextButton_7 = Instance.new("TextButton")
+local UICorner_7 = Instance.new("UICorner")
+local TextLabel_2 = Instance.new("TextLabel")
+local SettingsFrame = Instance.new("Frame")
+local TextButton_8 = Instance.new("TextButton")
+local UICorner_8 = Instance.new("UICorner")
+local TextButton_9 = Instance.new("TextButton")
+local UICorner_9 = Instance.new("UICorner")
+
+--Properties:
+
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+MainFrame.Name = "MainFrame"
+MainFrame.Parent = ScreenGui
+MainFrame.BackgroundColor3 = Color3.fromRGB(26, 26, 26)
+MainFrame.BorderSizePixel = 0
+MainFrame.Position = UDim2.new(0.172986627, 0, 0.276892424, 0)
+MainFrame.Size = UDim2.new(0, 448, 0, 255)
+
+UICorner.CornerRadius = UDim.new(0, 3)
+UICorner.Parent = MainFrame
+
+Header.Name = "Header"
+Header.Parent = MainFrame
+Header.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
+Header.BorderSizePixel = 0
+Header.Size = UDim2.new(0, 92, 0, 255)
+
+TextLabel.Parent = Header
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.Position = UDim2.new(0.0108695654, 0, 0.0235294141, 0)
+TextLabel.Size = UDim2.new(0, 91, 0, 38)
+TextLabel.Font = Enum.Font.GothamSemibold
+TextLabel.Text = "rec0v.xyz"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextSize = 18.000
+
+UICorner_2.CornerRadius = UDim.new(0, 4)
+UICorner_2.Parent = Header
+
+TextButton.Parent = MainFrame
+TextButton.BackgroundColor3 = Color3.fromRGB(26, 26, 26)
+TextButton.BorderSizePixel = 0
+TextButton.Position = UDim2.new(0.00223214296, 0, 0.247058824, 0)
+TextButton.Size = UDim2.new(0, 91, 0, 36)
+TextButton.Font = Enum.Font.GothamSemibold
+TextButton.Text = "Home"
+TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton.TextSize = 14.000
+
+TextButton_2.Parent = MainFrame
+TextButton_2.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
+TextButton_2.BorderSizePixel = 0
+TextButton_2.Position = UDim2.new(0.00223214296, 0, 0.388235301, 0)
+TextButton_2.Size = UDim2.new(0, 91, 0, 36)
+TextButton_2.Font = Enum.Font.GothamSemibold
+TextButton_2.Text = "Settings"
+TextButton_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_2.TextSize = 14.000
+
+HomeFrame.Name = "HomeFrame"
+HomeFrame.Parent = MainFrame
+HomeFrame.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
+HomeFrame.BorderSizePixel = 0
+HomeFrame.Position = UDim2.new(0.227678567, 0, 0.0235294122, 0)
+HomeFrame.Size = UDim2.new(0, 339, 0, 243)
+
+AutofarmFrame.Name = "AutofarmFrame"
+AutofarmFrame.Parent = HomeFrame
+AutofarmFrame.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
+AutofarmFrame.BorderColor3 = Color3.fromRGB(71, 71, 71)
+AutofarmFrame.BorderSizePixel = 2
+AutofarmFrame.Position = UDim2.new(0.0538743287, 0, 0.11256355, 0)
+AutofarmFrame.Size = UDim2.new(0, 131, 0, 203)
+
+TextButton_3.Parent = AutofarmFrame
+TextButton_3.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
+TextButton_3.BorderSizePixel = 0
+TextButton_3.Position = UDim2.new(0.063000001, 0, 0.0514285564, 0)
+TextButton_3.Size = UDim2.new(0, 114, 0, 36)
+TextButton_3.Font = Enum.Font.GothamSemibold
+TextButton_3.Text = "Mod Guns"
+TextButton_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_3.TextSize = 14.000
+
+UICorner_3.CornerRadius = UDim.new(0, 2)
+UICorner_3.Parent = TextButton_3
+
+TextButton_4.Parent = AutofarmFrame
+TextButton_4.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
+TextButton_4.BorderSizePixel = 0
+TextButton_4.Position = UDim2.new(0.063000001, 0, 0.263251215, 0)
+TextButton_4.Size = UDim2.new(0, 114, 0, 36)
+TextButton_4.Font = Enum.Font.GothamSemibold
+TextButton_4.Text = "Get all guns"
+TextButton_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_4.TextSize = 14.000
+
+UICorner_4.CornerRadius = UDim.new(0, 2)
+UICorner_4.Parent = TextButton_4
+
+GunMods.Name = "GunMods"
+GunMods.Parent = HomeFrame
+GunMods.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+GunMods.BackgroundTransparency = 1.000
+GunMods.Position = UDim2.new(0.0538744181, 0, 0.0246913582, 0)
+GunMods.Size = UDim2.new(0, 130, 0, 14)
+GunMods.Font = Enum.Font.GothamSemibold
+GunMods.Text = "Gun Mods"
+GunMods.TextColor3 = Color3.fromRGB(255, 255, 255)
+GunMods.TextSize = 13.000
+
+TeleportsFrame.Name = "TeleportsFrame"
+TeleportsFrame.Parent = HomeFrame
+TeleportsFrame.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
+TeleportsFrame.BorderColor3 = Color3.fromRGB(71, 71, 71)
+TeleportsFrame.BorderSizePixel = 2
+TeleportsFrame.Position = UDim2.new(0.564198792, 0, 0.11256355, 0)
+TeleportsFrame.Size = UDim2.new(0, 131, 0, 203)
+
+TextButton_5.Parent = TeleportsFrame
+TextButton_5.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
+TextButton_5.BorderSizePixel = 0
+TextButton_5.Position = UDim2.new(0.0633009076, 0, 0.054940585, 0)
+TextButton_5.Size = UDim2.new(0, 114, 0, 36)
+TextButton_5.Font = Enum.Font.GothamSemibold
+TextButton_5.Text = "Prison yard"
+TextButton_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_5.TextSize = 14.000
+
+UICorner_5.CornerRadius = UDim.new(0, 2)
+UICorner_5.Parent = TextButton_5
+
+TextButton_6.Parent = TeleportsFrame
+TextButton_6.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
+TextButton_6.BorderSizePixel = 0
+TextButton_6.Position = UDim2.new(0.0633009076, 0, 0.26676324, 0)
+TextButton_6.Size = UDim2.new(0, 114, 0, 36)
+TextButton_6.Font = Enum.Font.GothamSemibold
+TextButton_6.Text = "Criminal base"
+TextButton_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_6.TextSize = 14.000
+
+UICorner_6.CornerRadius = UDim.new(0, 2)
+UICorner_6.Parent = TextButton_6
+
+TextButton_7.Parent = TeleportsFrame
+TextButton_7.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
+TextButton_7.BorderSizePixel = 0
+TextButton_7.Position = UDim2.new(0.063000001, 0, 0.479999989, 0)
+TextButton_7.Size = UDim2.new(0, 114, 0, 36)
+TextButton_7.Font = Enum.Font.GothamSemibold
+TextButton_7.Text = "Teleport 3"
+TextButton_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_7.TextSize = 14.000
+
+UICorner_7.CornerRadius = UDim.new(0, 2)
+UICorner_7.Parent = TextButton_7
+
+TextLabel_2.Parent = HomeFrame
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundTransparency = 1.000
+TextLabel_2.Position = UDim2.new(0.567148745, 0, 0.0246913582, 0)
+TextLabel_2.Size = UDim2.new(0, 130, 0, 14)
+TextLabel_2.Font = Enum.Font.GothamSemibold
+TextLabel_2.Text = "Teleports"
+TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.TextSize = 13.000
+
+SettingsFrame.Name = "SettingsFrame"
+SettingsFrame.Parent = MainFrame
+SettingsFrame.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
+SettingsFrame.BorderSizePixel = 0
+SettingsFrame.Position = UDim2.new(0.227678567, 0, 0.0235294122, 0)
+SettingsFrame.Size = UDim2.new(0, 339, 0, 243)
+SettingsFrame.Visible = false
+
+TextButton_8.Parent = SettingsFrame
+TextButton_8.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
+TextButton_8.BorderSizePixel = 0
+TextButton_8.Position = UDim2.new(0.0571002811, 0, 0.0849383175, 0)
+TextButton_8.Size = UDim2.new(0, 300, 0, 36)
+TextButton_8.Font = Enum.Font.GothamSemibold
+TextButton_8.Text = "Our Discord"
+TextButton_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_8.TextSize = 14.000
+
+UICorner_8.CornerRadius = UDim.new(0, 2)
+UICorner_8.Parent = TextButton_8
+
+TextButton_9.Parent = SettingsFrame
+TextButton_9.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
+TextButton_9.BorderSizePixel = 0
+TextButton_9.Position = UDim2.new(0.0571002811, 0, 0.290699631, 0)
+TextButton_9.Size = UDim2.new(0, 300, 0, 36)
+TextButton_9.Font = Enum.Font.GothamSemibold
+TextButton_9.Text = "Destroy GUI"
+TextButton_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_9.TextSize = 14.000
+
+UICorner_9.CornerRadius = UDim.new(0, 2)
+UICorner_9.Parent = TextButton_9
