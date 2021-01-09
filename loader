@@ -225,9 +225,10 @@ local function RVWTPG_fake_script() -- TextLabel_3.LocalScript
 end
 coroutine.wrap(RVWTPG_fake_script)()
 
-if game.PlaceId == 155615604 then
-	print('e')
+if game.PlaceId == 6034083023 then
+	print("game supported loading")
 else
 	ScreenGui:Destroy()
+	print("game not supported")
 end
 
