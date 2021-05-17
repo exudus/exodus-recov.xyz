@@ -19,7 +19,7 @@ local coreGui = game:GetService("CoreGui");
 
 local UserInputService = game:GetService("UserInputService")
 
-        local gui = library
+        local gui = BlueX_Library
 
         local dragging
         local dragInput
