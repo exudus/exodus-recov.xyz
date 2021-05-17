@@ -37,21 +37,21 @@ local UserInputService = game:GetService("UserInputService")
         		dragStart = input.Position
         		startPos = gui.Position
         		
-        		input.Changed:Connect(function()
-        			if input.UserInputState == Enum.UserInputState.End then
-        				dragging = false
-        			end
-        		end)
-        	end
-        end)
-
-        local connection
+        		local connection
 		connection = input.Changed:Connect(function()
 			if input.UserInputState == Enum.UserInputState.End then
 				connection:Disconnect()
 				dragging = false
 			end
-		end)
+		    end)
+        	end
+        end)
+
+        gui.InputChanged:Connect(function(input)
+	if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+		dragInput = input
+	end
+end)
 
         UserInputService.InputChanged:Connect(function(input)
         	if input == dragInput and dragging then
