@@ -351,7 +351,7 @@ function library.new(name, settings)
 
 local UserInputService = game:GetService("UserInputService")
 
-        local gui = script.Parent
+        local gui = BlueX_Library
 
         local dragging
         local dragInput
