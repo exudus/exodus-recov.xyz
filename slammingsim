@@ -349,12 +349,7 @@ function library.new(name, settings)
     tab.ISMENU = true;
 
 
-
-
-    local letterCount = tonumber(string.len("Container_"))
-    
-    
-    local UserInputService = game:GetService("UserInputService")
+local UserInputService = game:GetService("UserInputService")
 
         local gui = script.Parent
 
@@ -394,6 +389,8 @@ function library.new(name, settings)
         	end
         end)
 
+    local letterCount = tonumber(string.len("Container_"))
+    
     function UI:make_tab(name,vis)
         local tab_Section = {}
         local tabName = name or "unnamed tab"
